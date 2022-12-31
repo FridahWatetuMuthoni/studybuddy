@@ -23,3 +23,6 @@
 
 5. Multiple Parameters
     queryset = Project.objects.filter(title='first project').order_by('value1', 'value2')
+
+<https://djangostars.com/blog/rest-apis-django-development/>
+<https://realpython.com/django-hosting-on-heroku/>
